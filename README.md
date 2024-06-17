@@ -23,6 +23,12 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
 - **GitHub Streak**:
   <br>
   [![GitHub Streak](https://streak-stats.demolab.com/?user=ragujan)](https://git.io/streak-stats)
+  <br>
+  <br>
+
+- **Leetcode Stats**:
+  <br>
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ragujan)](https://github.com/KnlnKS/leetcode-stats)
 
 - **Languages**:
 
