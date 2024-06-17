@@ -1,7 +1,7 @@
 <h1 align="center"><b>Rag JN</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=This+is+Rag+JN" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03F7BB&random=false&width=435&lines=This+is+Ragujan+aka+Rag+JN)](https://git.io/typing-svg)
 </p>
 
 <br>
@@ -18,18 +18,19 @@ I am a passionate full-stack developer with a strong interest in web development
 
 I am about to finish my degree in Software Engineering studies at the Java Institute, Sri Lanka. This degree is offered by Birmingham City University (Bachelor of Science with Honours in Software Engineering).
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ragujan)](https://git.io/streak-stats)
-
 <p align="center">
 
+- **GitHub Streak**:
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ragujan)](https://git.io/streak-stats)
+
 - **Languages**:
-    
-<br>   
+
+<br>
 
 <br>
 
 - **Tech**:
-    
+
 <br>
 
 - **Softwares and Tools**:
@@ -41,7 +42,7 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
 <br>
 <br>
 
------
+---
 
 <br>
 
@@ -53,7 +54,8 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
 </a>
 </div>
 
------
+---
+
 <br>
 <br>
 
