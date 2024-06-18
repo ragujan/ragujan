@@ -24,11 +24,12 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
   <br>
   [![GitHub Streak](https://streak-stats.demolab.com/?user=ragujan)](https://git.io/streak-stats)
   <br>
-  <br>
+<hr>
 
 - **Leetcode Stats**:
   <br>
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ragujan)](https://github.com/KnlnKS/leetcode-stats)
+<hr>
 
 - **Languages**:
 <p align="center">
@@ -38,6 +39,7 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
 </p>
 <br>
 <hr>
+
 - **Database**:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -51,19 +53,17 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
 <br>
 
 - **Softwares and Tools**:
+<p>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<br>
-
 </p>
-
+<p>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</p>
 <br>
-<br>
 
----
 
-<br>
+
+<hr>
 
 <div align="center">
 
