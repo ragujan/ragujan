@@ -51,9 +51,9 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
 
 - **Softwares and Tools**:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,canva,clickup,chatgpt,&perline=8" />
-  </a>
+  
+    <img src="https://skillicons.dev/icons?i=figma,&perline=1" />
+   <img src="https://skillicons.dev/icons?i=figma,&perline=1" />
 </p>
 <br>
 
