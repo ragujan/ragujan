@@ -34,7 +34,7 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
 - **Languages**:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,java,php,mysql,postgres,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,js,typescript,css,java,php,mysql,postgres,&perline=8" />
   </a>
 </p>
 <br>
@@ -54,6 +54,7 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
   
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    <img src="https://skillicons.dev/icons?i=tailwind,&perline=1" />
   
 </div>
 <hr>
