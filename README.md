@@ -33,7 +33,7 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
 - **Languages**:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,css,java,php,mysql,postgres,&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,java,php,mysql,postgres,&perline=4" />
   </a>
    
 </p>
