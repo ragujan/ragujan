@@ -65,7 +65,7 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
    <img src="https://skillicons.dev/icons?i=figma,&perline=1" />
    <img src="https://skillicons.dev/icons?i=postman,&perline=1" />
    <img src="https://skillicons.dev/icons?i=git,&perline=1" />
-   <img src="https://skillicons.dev/icons?i=git,&perline=1" />
+   
 </p>
 <br>
 <hr>
