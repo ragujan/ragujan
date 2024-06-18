@@ -49,11 +49,21 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
 <hr>
 <br>
 
+- **Frameworks and Libraries**:
+<div align="center">
+  
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  
+</div>
+<hr>
+<br>
+
 - **Softwares and Tools**:
 <p >
    <img src="https://skillicons.dev/icons?i=figma,&perline=1" />
-   <img src="https://skillicons.dev/icons?i=figma,&perline=1" />
-   <img src="https://skillicons.dev/icons?i=figma,&perline=1" />
+   <img src="https://skillicons.dev/icons?i=postman,&perline=1" />
+   <img src="https://skillicons.dev/icons?i=git,&perline=1" />
+   <img src="https://skillicons.dev/icons?i=git,&perline=1" />
 </p>
 <br>
 <hr>
