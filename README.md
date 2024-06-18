@@ -33,21 +33,19 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
 - **Languages**:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,java,php,mysql,postgres,&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,java,php,mysql,postgres,&perline=8" />
   </a>
-   
 </p>
 <br>
-
-
-- **Tech**:
-SQL 
 <hr>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **Database**:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,&perline=8" />
+  </a>
+</p>
+<hr>
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 <br>
