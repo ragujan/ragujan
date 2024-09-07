@@ -6,7 +6,7 @@
 
 <br>
 
-I am a passionate full-stack developer with a strong interest in web development. I am currently open to internship or job opportunities where I can contribute and grow.
+I am a passionate full-stack developer with a strong interest in web development.
 
 - Currently, I am a SpringBoot intern.
 - Experienced in Laravel and React development
