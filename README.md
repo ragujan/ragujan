@@ -8,12 +8,12 @@
 
 I am a passionate full-stack developer with a strong interest in web development. I am currently open to internship or job opportunities where I can contribute and grow.
 
+- Currently, I am a SpringBoot intern.
 - Experienced in Laravel and React development
 - Proficient in backend languages such as PHP and Java
 - Skilled in front-end technologies like React and Tailwind CSS
-- Skilled in MySQL and have a foundational understanding of PostgreSQL as I am currently learning it
+- Skilled in MySQL and working with Postgres in the workplace.
 - Familiar with mobile development using React Native and Android Java
-- Currently learning Spring Boot
 - Familiar with Docker, AWS SES, AWS S3, Stripe Payment Integration, Email Integration, and VPS hosting
 
 I am about to finish my degree in Software Engineering studies at the Java Institute, Sri Lanka. This degree is offered by Birmingham City University (Bachelor of Science with Honours in Software Engineering).
