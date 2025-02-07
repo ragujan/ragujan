@@ -86,10 +86,5 @@ I have completed my degree in Software Engineering at the Java Institute, Sri La
 
 </div>
 <br>
-<br>
-<br>
-<br>
-
----
 
 <br>
