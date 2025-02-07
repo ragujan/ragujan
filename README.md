@@ -29,7 +29,7 @@ I have completed my degree in Software Engineering at the Java Institute, Sri La
 
 - **Leetcode Stats**:
   <br>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Inter)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Ragujan?theme=dark&font=Inter)
 <hr>
 
 - **Languages**:
