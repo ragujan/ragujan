@@ -8,7 +8,7 @@
 
 I am a passionate full-stack developer with a strong interest in web development.
 
-- Currently, I am a SpringBoot intern.
+- I am an Associate Software Engineer at EverestX Technologies.
 - Experienced in Laravel and React development
 - Proficient in backend languages such as PHP and Java
 - Skilled in front-end technologies like React and Tailwind CSS
@@ -16,7 +16,8 @@ I am a passionate full-stack developer with a strong interest in web development
 - Familiar with mobile development using React Native and Android Java
 - Familiar with Docker, AWS SES, AWS S3, Stripe Payment Integration, Email Integration, and VPS hosting
 
-I am about to finish my degree in Software Engineering studies at the Java Institute, Sri Lanka. This degree is offered by Birmingham City University (Bachelor of Science with Honours in Software Engineering).
+
+I have completed my degree in Software Engineering at the Java Institute, Sri Lanka, with First-Class Honors. This degree is offered by Birmingham City University (Bachelor of Science with Honours in Software Engineering), and the graduation program will be held in May 2025.
 
 <p align="center">
 
@@ -28,7 +29,7 @@ I am about to finish my degree in Software Engineering studies at the Java Insti
 
 - **Leetcode Stats**:
   <br>
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ragujan)](https://github.com/KnlnKS/leetcode-stats)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Inter)
 <hr>
 
 - **Languages**:
