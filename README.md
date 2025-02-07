@@ -48,7 +48,7 @@ I have completed my degree in Software Engineering at the Java Institute, Sri La
   </a>
 </p>
 <hr>
-<br>
+
 
 - **Frameworks and Libraries**:
 <div align="center">
@@ -58,8 +58,7 @@ I have completed my degree in Software Engineering at the Java Institute, Sri La
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/springboot-%2338B2AC.svg?style=for-the-badge&logo=springboot-css&logoColor=white)
 </div>
-<hr>
-<br>
+
 
 - **Softwares and Tools**:
 <p >
@@ -68,7 +67,6 @@ I have completed my degree in Software Engineering at the Java Institute, Sri La
    <img src="https://skillicons.dev/icons?i=git,&perline=1" />
    
 </p>
-<br>
 <hr>
 
 <div align="center">
