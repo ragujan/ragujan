@@ -22,7 +22,13 @@ I am a passionate full-stack developer with a strong interest in web development
 I have completed my **Bachelor of Science with Honours in Software Engineering** at the **Java Institute, Sri Lanka**, awarded by **Birmingham City University**, with **First-Class Honors**. My **graduation program will be held in May 2025**.
 
 ---
+<p align="center">
+  🎵 **Support me by buying my instrumentals that I produced** 🎵  
+  <br>
+  🎧 👉 <a href="https://www.beatstars.com/ragjnmusic" target="_blank"><b>BeatStars</b></a>  
+</p>
 
+---
 ### GitHub Streak  
 <p align="center">
   <a href="https://git.io/streak-stats">
