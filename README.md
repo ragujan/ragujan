@@ -12,6 +12,7 @@
 I am a passionate full-stack developer with a strong interest in web development.
 
 - **Associate Software Engineer** at **EverestX Technologies**  
+- **Springboot** developer is my current role along with **DevOps** tasks.
 - **Experienced** in Laravel and React development  
 - **Proficient** in backend languages such as **PHP** and **Java**  
 - **Skilled** in front-end technologies like **React** and **Tailwind CSS**  
